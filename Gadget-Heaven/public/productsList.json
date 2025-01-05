@@ -1,0 +1,156 @@
+[
+    {
+        "product_id": "L01",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/3vMkc2m/1.jpg",
+        "category": "Laptops",
+        "price": 999,
+        "description": "High-performance laptop for work and play.",
+        "specification": ["16GB RAM", "512GB SSD", "Intel i7"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "L02",
+        "product_title": "HP Pavilion 15",
+        "product_image": "https://i.ibb.co.com/HTxSQxP/2.jpg",
+        "category": "Laptops",
+        "price": 749,
+        "description": "Affordable laptop with great features.",
+        "specification": ["8GB RAM", "256GB SSD", "Intel i5"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "L03",
+        "product_title": "MacBook Pro 16-inch",
+        "product_image": "https://i.ibb.co.com/TR9hdSd/3.jpg",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "Gaming laptop with high refresh rate display.",
+        "specification": ["16GB RAM", "1TB SSD", "Intel i9"],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "L04",
+        "product_title": "Lenovo ThinkPad X1",
+        "product_image": "https://i.ibb.co.com/pKn5sRY/4.jpg",
+        "category": "Laptops",
+        "price": 499,
+        "description": "Entry-level laptop for everyday use.",
+        "specification": ["4GB RAM", "128GB SSD", "Intel i3"],
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "product_id": "L05",
+        "product_title": "Apple MacBook Air",
+        "product_image": "https://i.ibb.co.com/n17k0Td/5.jpg",
+        "category": "Laptops",
+        "price": 1399,
+        "description": "Professional laptop for creators.",
+        "specification": ["32GB RAM", "1TB SSD", "AMD Ryzen 7"],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": "L06",
+        "product_title": "Acer Swift 3",
+        "product_image": "https://i.ibb.co.com/Z6HJNJZ/6.jpgg",
+        "category": "Laptops",
+        "price": 849,
+        "description": "Lightweight laptop with long battery life.",
+        "specification": ["8GB RAM", "512GB SSD", "Intel i5"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P01",
+        "product_title": "iPhone 13 Pro",
+        "product_image": "https://i.ibb.co.com/ChwMVgy/7.jpg",
+        "category": "Phones",
+        "price": 699,
+        "description": "High-end smartphone with excellent camera.",
+        "specification": ["128GB Storage", "6GB RAM", "OLED Display"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P02",
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://i.ibb.co.com/QHK9vky/8.jpg",
+        "category": "Phones",
+        "price": 399,
+        "description": "Budget-friendly smartphone with decent features.",
+        "specification": ["64GB Storage", "4GB RAM", "LCD Display"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "A01",
+        "product_title": "Bose QuietComfort 35 II",
+        "product_image": "https://i.ibb.co.com/CKFVV3W/9.jpg",
+        "category": "Accessories",
+        "price": 99,
+        "description": "High-quality sound with noise cancellation.",
+        "specification": ["Bluetooth 5.0", "20-hour Battery Life"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "A02",
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://i.ibb.co.com/GQXZgYb/10.jpg",
+        "category": "Accessories",
+        "price": 29,
+        "description": "Fast-charging power bank with USB-C port.",
+        "specification": ["10,000mAh", "USB-C and USB-A"],
+        "availability": true,
+        "rating": 4.1
+    },
+    {
+        "product_id": "S01",
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://i.ibb.co.com/5FKRmFq/11.jpg",
+        "category": "Smart Watches",
+        "price": 199,
+        "description": "Advanced fitness tracking with GPS.",
+        "specification": ["Heart Rate Monitor", "GPS", "5ATM Waterproof"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "S02",
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://i.ibb.co.com/j87xy15/12.jpg",
+        "category": "Smart Watches",
+        "price": 249,
+        "description": "Smartwatch with AMOLED display and long battery life.",
+        "specification": ["AMOLED Display", "7-Day Battery"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "M01",
+        "product_title": "Sony WH-1000XM4",
+        "product_image": "https://i.ibb.co.com/7YMXgZp/13.jpg",
+        "category": "Headphone",
+        "price": 999,
+        "description": "Lightweight headphones with superior sound quality.",
+        "specification": ["Active Noise Cancelling", "30-hour Battery Life"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "M02",
+        "product_title": "Cancelling Headphones 700",
+        "product_image": "https://i.ibb.co.com/VmJ8ZM2/14.jpg",
+        "category": "Headphone",
+        "price": 1299,
+        "description": "High-performance headphones with premium noise cancellation.",
+        "specification": ["Bluetooth", "20-hour Battery Life"],
+        "availability": false,
+        "rating": 4.9
+    }
+]
